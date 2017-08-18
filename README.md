@@ -1,6 +1,11 @@
 # levenshtein-js
 Find the similar keywords with Levenshtein algorithm
 
+# Live Example:
+
+- [Codepen](https://codepen.io/aligoren/pen/prabmx?editors=0011)
+- [Plunker](https://plnkr.co/edit/nJHAqDhV4z7gchESsedF?p=info)
+
 # Usage
 
 ```javascript
